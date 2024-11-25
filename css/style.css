@@ -4,7 +4,7 @@
     --aqua: #abeed7;
     --white: #ffffff;
     --gray: #dcd8d8;
-    --borgonnie: #731438;
+    --burgundy: #650c2e;
   }
 
 body {
@@ -27,7 +27,7 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    color: var(--borgonnie);
+    color: var(--burgundy);
     box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.20);
 }
 
