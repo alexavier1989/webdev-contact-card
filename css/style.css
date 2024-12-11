@@ -1,14 +1,16 @@
 @import url("reset.css");
 
 :root {
-    --aqua: #abeed7;
+    --aqua: #d8eee6;
+    --aqua-dark: #0b8158;
     --white: #ffffff;
     --gray: #dcd8d8;
     --burgundy: #650c2e;
   }
 
 body {
- background-color: var(--aqua);
+ /* background-color: var(--aqua); */
+ background-image: linear-gradient(to bottom right, var(--aqua-dark), var(--aqua));
  font-family: "Audiowide", sans-serif; 
 }
 
